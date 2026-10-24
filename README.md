@@ -1,145 +1,121 @@
-# Shalabh Suman
+<!--
+  CYBERPUNK PROFILE README  |  @heyshalabh
+  Search this file for "REPLACE" to find every placeholder.
+  Matrix GIF: uses a hosted demo GIF. For a permanent copy, upload matrix-rain.gif to your
+  profile repo and use the "OWN COPY" line below instead.
+-->
 
-**Computer Science Student · Builder · Developer in Progress**
+<div align="center">
 
-```txt
-shalabh@github:~$ whoami
-B.Tech CSE @ MATS University, Raipur
-Expected Graduation: 2029
-Building practical software. Learning fundamentals. Shipping improvements.
+<!-- BANNER + MATRIX RAIN -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=100&section=header&text=SHALABH%20SUMAN&fontSize=44&fontColor=00FF41&animation=twinkling&stroke=00FF41&strokeWidth=2&fontAlignY=50" alt="SHALABH SUMAN" width="720" />
+<br/>
+<img src="https://raw.githubusercontent.com/m-sarabi/rain-char/refs/heads/main/assets/rain-char.gif" alt="Green Matrix digital rain animation" width="720" />
+<!-- OWN COPY (after uploading matrix-rain.gif to your repo), replace the line above with:
+<img src="./matrix-rain.gif" alt="Green Matrix digital rain animation" width="720" />
+-->
+<br/>
+
+<!-- TYPING INTRO -->
+<a href="https://github.com/heyshalabh">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3500&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&repeat=true&width=720&height=60&lines=%3E+initializing+shalabh.exe...;%3E+B.Tech+CSE+%40+MATS+University+-+Class+of+2029;%3E+builds+with+Java%2C+Python+and+the+web;%3E+status%3A+online+-+open+to+internships" alt="Animated terminal text: initializing shalabh.exe, B.Tech CSE at MATS University, Class of 2029, builds with Java, Python and the web, status online and open to internships" />
+</a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00FF41?style=for-the-badge&labelColor=000000" alt="Status: online" />
+<img src="https://img.shields.io/badge/CLASS_OF-2029-00FF41?style=for-the-badge&labelColor=000000" alt="Class of 2029" />
+<img src="https://img.shields.io/badge/OPEN_TO-INTERNSHIPS-00FF41?style=for-the-badge&labelColor=000000" alt="Open to internships" />
+<br/>
+<img src="https://komarev.com/ghpvc/?username=heyshalabh&label=PROFILE+VIEWS&color=00FF41&style=for-the-badge&labelColor=000000" alt="Profile views counter" />
+
+</div>
+
+<br/>
+
+<!-- ABOUT -->
+```bash
+┌──(shalabh㉿matsu)-[~]
+└─$ cat about.txt
+B.Tech CSE student at MATS University, Raipur. Class of 2029.
+I learn by building: web apps, Java systems and Python automation.
+Exploring React, React Native, Firebase and APIs. Looking for an internship.
 ```
 
-I build useful projects to understand how software actually works — frontend, backend concepts, Java, and product thinking. Currently focused on web applications, mobile exploration, and stronger programming foundations.
+<!-- TECH STACK -->
+<h3 align="center">// TECH_STACK</h3>
 
-**[Projects](#featured-projects)** · **[Tech](#tech-stack)** · **[GitHub](https://github.com/heyshalabh)** · **[LinkedIn](https://www.linkedin.com/in/shalabh-sumann/)** · **[Repositories](https://github.com/heyshalabh?tab=repositories)**
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=html,css,js,java,python,git,github&theme=dark" alt="HTML, CSS, JavaScript, Java, Python, Git and GitHub" />
 
-### About
+</div>
 
-I’m a B.Tech Computer Science and Engineering student at **MATS University, Raipur (Chhattisgarh)**, graduating in **2029**.
+<br/>
 
-I learn by building. That means taking ideas from concept to working code — attendance tools, campus platforms, student products, Java systems, and small web apps. I care about clean structure, useful features, and understanding the fundamentals behind the tools I use.
+<!-- PROJECTS -->
+<h3 align="center">// ACTIVE_PROJECTS</h3>
 
-Interests: Web Development · Frontend · Full-Stack · Mobile (React Native) · Developer Tools · SaaS & Startup ideas · Building products that solve real student problems.
+<table align="center">
+<tr>
+<td align="center" width="50%">
+<b>MatsMate</b><br/>
+<sub>Attendance Management System</sub><br/>
+<!-- REPLACE: put the real repo name in the link -->
+<a href="https://github.com/heyshalabh/REPLACE-WITH-REPO-NAME">open repo &rarr;</a>
+</td>
+<td align="center" width="50%">
+<b>CampSetu</b><br/>
+<sub>Campus Community Platform</sub><br/>
+<!-- REPLACE: put the real repo name in the link -->
+<a href="https://github.com/heyshalabh/REPLACE-WITH-REPO-NAME">open repo &rarr;</a>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<b>DecodeCV</b><br/>
+<sub>Resume Skills and Keyword Extraction Tool</sub><br/>
+<!-- REPLACE: put the real repo name in the link -->
+<a href="https://github.com/heyshalabh/REPLACE-WITH-REPO-NAME">open repo &rarr;</a>
+</td>
+<td align="center" width="50%">
+<b>WhatsApp Automation Bot</b><br/>
+<sub>Python-based WhatsApp automation</sub><br/>
+<!-- REPLACE: put the real repo name in the link -->
+<a href="https://github.com/heyshalabh/REPLACE-WITH-REPO-NAME">open repo &rarr;</a>
+</td>
+</tr>
+</table>
 
-I’m open to learning from experienced developers, contributing to meaningful projects, and improving through consistent practice.
+<br/>
 
-**Currently Exploring**
-- Stronger Java & OOP fundamentals
-- JavaScript and practical frontend development
-- Git & GitHub workflows
-- React Native / mobile application development
-- APIs, Firebase, and basic full-stack patterns
-- Better software design and project documentation
+<!-- GITHUB STATS -->
+<h3 align="center">// GITHUB_ANALYTICS</h3>
 
----
+<div align="center">
 
-### Tech Stack
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=heyshalabh&show_icons=true&rank_icon=github&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9&ring_color=00FF41&border_color=00FF41" alt="GitHub statistics for heyshalabh" />
+<img src="https://streak-stats.demolab.com?user=heyshalabh&theme=dark&background=000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=C9D1D9&dates=8B949E&border=00FF41" alt="GitHub contribution streak" height="170" />
 
-**Currently Using / Practicing**
+<br/>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=heyshalabh&bg_color=000000&color=00FF41&line=00FF41&point=FFFFFF&area=true&area_color=00FF41&hide_border=true&title_color=00FF41&custom_title=Contribution%20Activity" alt="Contribution activity graph" width="100%" />
 
-**Exploring**
+</div>
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+<br/>
 
-*These reflect current practice and active learning — not claims of mastery.*
+<!-- CONNECT -->
+<div align="center">
 
----
+<a href="https://www.linkedin.com/in/shalabh-sumann/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-00FF41?style=for-the-badge&labelColor=000000" alt="Connect on LinkedIn" /></a>
+<a href="https://github.com/heyshalabh"><img src="https://img.shields.io/badge/GITHUB-FOLLOW-00FF41?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=000000" alt="Follow on GitHub" /></a>
 
-### Featured Projects
+<br/><br/>
 
-#### CampSetu
-**Campus Community Platform** · React · Vite · Tailwind · Supabase
+<!-- FOOTER -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1500&color=00FF41&background=000000&center=true&vCenter=true&repeat=true&width=520&height=30&lines=%3E+connection+closed.+keep+building._" alt="Animated terminal text: connection closed, keep building" />
 
-Multi-campus web platform for notices, events, lost & found, campus issues, interactive map, roles (student / faculty / admin), and authentication. Built with a mobile-first approach and dark mode support.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:003b12&height=90&section=footer&animation=twinkling" alt="" width="100%" />
 
-[Repository](https://github.com/heyshalabh/CampSetu) · [Live Demo](https://campsetu.vercel.app)
-
-#### HeavyClub
-**Workout Tracker PWA** · React · TypeScript · Vite · Firebase
-
-Simple, modern workout companion for tracking sets, reps, weight, RPE, history, progress charts, PRs, goals, streaks, and gym club features. Privacy-focused security rules. Designed for college gyms.
-
-[Repository](https://github.com/heyshalabh/HeavyClub-App)
-
-#### BiteBurp
-**Student Food Product Web App** · HTML · CSS · JavaScript · Firebase
-
-Student-focused ordering experience for protein snack boxes. Includes product flow, order tokens, admin panel, feedback, story video support, and payment architecture (manual UPI + prepared Razorpay path).
-
-[Repository](https://github.com/heyshalabh/BiteBurp-App)
-
-#### Student Management System
-**Java Mini Project** · Core Java · OOP
-
-Console-based application for managing student records: add, search, update, delete, display, grade calculation, and result generation. Practises classes, constructors, method overloading, inheritance, interfaces, packages, and access modifiers.
-
-[Repository](https://github.com/heyshalabh/Student-Management-System)
-
-#### Java Learning Journey
-**Practice & Notes** · Java
-
-Collection of programs and notes documenting my progress with Java fundamentals and OOP concepts.
-
-[Repository](https://github.com/heyshalabh/Java-Programs)
-
----
-
-**More projects** → [github.com/heyshalabh?tab=repositories](https://github.com/heyshalabh?tab=repositories)
-
-*Other concepts in progress or earlier stages (MatsMate attendance, DecodeCV, BopMenu, Wallet404, Linkzip, EventPoke, etc.) will be featured as they reach a solid implementation state.*
-
----
-
-### Currently Building & Learning
-
-- Strengthening Java fundamentals and OOP design
-- Building practical web applications with HTML, CSS, and JavaScript
-- Understanding APIs and backend integration patterns
-- Working with Firebase / Supabase for real data and auth
-- Exploring React Native for mobile
-- Improving Git workflows and project documentation
-- Turning ideas into usable student-focused products
-
-*This section is intentionally short so it stays easy to update every few weeks.*
-
----
-
-### GitHub Activity
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=heyshalabh&show_icons=true&theme=transparent&hide_border=true&title_color=3fb950&icon_color=3fb950&text_color=c9d1d9&bg_color=00000000" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyshalabh&layout=compact&theme=transparent&hide_border=true&title_color=3fb950&text_color=c9d1d9&bg_color=00000000" alt="Top Languages" height="165" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=heyshalabh&theme=transparent&hide_border=true&ring=3fb950&fire=3fb950&currStreakLabel=3fb950" alt="GitHub Streak" />
-</p>
-
-*Statistics are generated by third-party services and may take time to update. They reflect activity, not skill level.*
-
----
-
-### Connect
-
-[GitHub](https://github.com/heyshalabh) · [LinkedIn](https://www.linkedin.com/in/shalabh-suman/) · Email: `[INSERT YOUR PUBLIC PROFESSIONAL EMAIL]`
-
-Open to conversations about projects, internships, learning resources, and collaboration.
-
----
-
-*Learning continuously. Building intentionally. Improving one project at a time.*
+</div>
