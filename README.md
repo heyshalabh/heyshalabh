@@ -1,238 +1,145 @@
-<!--
-  GITHUB PROFILE README  |  @heyshalabh
-  Tip: search this file for "REPLACE" or "PLACEHOLDER" to find everything you must edit.
-  Accent colour: electric green #00FF41
--->
+# Shalabh Suman
 
-<div align="center">
+**Computer Science Student · Builder · Developer in Progress**
 
-<!-- HERO -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:001a0a,100:004d1a&height=230&section=header&text=Shalabh%20Suman&fontSize=58&fontColor=00FF41&fontAlignY=38&animation=fadeIn&desc=Computer%20Science%20Student%20%C2%B7%20Software%20Builder&descSize=18&descColor=C9D1D9&descAlignY=60" alt="Shalabh Suman, Computer Science Student and Software Builder" width="100%" />
-
-<a href="https://github.com/heyshalabh">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1200&color=00FF41&center=true&vCenter=true&width=720&height=40&lines=I+turn+ideas+into+working+software;Learning+by+building%2C+one+project+at+a+time;B.Tech+CSE+at+MATS+University%2C+Class+of+2029" alt="Typing animation: I turn ideas into working software. Learning by building, one project at a time. B.Tech CSE at MATS University, Class of 2029." />
-</a>
-
-<br/>
-
-<img src="https://img.shields.io/badge/B.TECH-CSE-0D1117?style=for-the-badge&labelColor=000000" alt="B.Tech CSE" />
-<img src="https://img.shields.io/badge/CLASS%20OF-2029-0D1117?style=for-the-badge&labelColor=000000" alt="Class of 2029" />
-<img src="https://img.shields.io/badge/RAIPUR-INDIA-0D1117?style=for-the-badge&labelColor=000000" alt="Raipur, India" />
-
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/shalabh-sumann/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="44" alt="LinkedIn profile" /></a>&nbsp;&nbsp;
-<a href="https://github.com/heyshalabh"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="44" alt="GitHub profile" /></a>&nbsp;&nbsp;
-<!-- REPLACE: put your real email address after mailto: -->
-<a href="mailto:alsoshalabh@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="44" alt="Send an email" /></a>
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00FF41&height=2" width="100%" alt="" />
-
-<!-- ABOUT -->
-<h2 align="center">$ whoami</h2>
-
-```js
-const shalabh = {
-  role:       "B.Tech Computer Science student",
-  university: "MATS University, Raipur",
-  graduating: 2029,
-  location:   "Raipur, Chhattisgarh, India",
-  mindset:    "learn by building, improve by shipping",
-  looking:    "software development internships",
-};
+```txt
+shalabh@github:~$ whoami
+B.Tech CSE @ MATS University, Raipur
+Expected Graduation: 2029
+Building practical software. Learning fundamentals. Shipping improvements.
 ```
 
-I'm a Computer Science student who learns best by **building real things**. My journey started with web fundamentals (HTML, CSS and JavaScript), grew into **Java** and **Python**, and now keeps expanding toward modern frameworks, APIs and mobile development.
+I build useful projects to understand how software actually works — frontend, backend concepts, Java, and product thinking. Currently focused on web applications, mobile exploration, and stronger programming foundations.
 
-I care about writing code that is clear, useful and finished. Every project is a chance to understand how software actually works, from the first idea to something another person can use.
+**[Projects](#featured-projects)** · **[Tech](#tech-stack)** · **[GitHub](https://github.com/heyshalabh)** · **[LinkedIn](https://www.linkedin.com/in/shalabh-sumann/)** · **[Repositories](https://github.com/heyshalabh?tab=repositories)**
 
-My goal is to grow into a strong software developer, and I'm actively looking for an **internship** where I can contribute, learn from experienced engineers, and keep raising my standard.
+---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00FF41&height=2" width="100%" alt="" />
+### About
 
-<!-- TECH STACK -->
-<h2 align="center">$ cat tech_stack.json</h2>
+I’m a B.Tech Computer Science and Engineering student at **MATS University, Raipur (Chhattisgarh)**, graduating in **2029**.
 
-<div align="center">
+I learn by building. That means taking ideas from concept to working code — attendance tools, campus platforms, student products, Java systems, and small web apps. I care about clean structure, useful features, and understanding the fundamentals behind the tools I use.
 
-**`core`**
+Interests: Web Development · Frontend · Full-Stack · Mobile (React Native) · Developer Tools · SaaS & Startup ideas · Building products that solve real student problems.
 
-<img src="https://skillicons.dev/icons?i=html,css,js,java,python,git,github&theme=dark" alt="HTML, CSS, JavaScript, Java, Python, Git and GitHub" />
+I’m open to learning from experienced developers, contributing to meaningful projects, and improving through consistent practice.
 
-<br/><br/>
+**Currently Exploring**
+- Stronger Java & OOP fundamentals
+- JavaScript and practical frontend development
+- Git & GitHub workflows
+- React Native / mobile application development
+- APIs, Firebase, and basic full-stack patterns
+- Better software design and project documentation
 
-**`exploring`**
+---
 
-<img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=00FF41" alt="React" />
-<img src="https://img.shields.io/badge/React%20Native-0D1117?style=for-the-badge&logo=react&logoColor=00FF41" alt="React Native" />
-<img src="https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=00FF41" alt="Firebase" />
-<img src="https://img.shields.io/badge/APIs-0D1117?style=for-the-badge&logo=json&logoColor=00FF41" alt="APIs" />
+### Tech Stack
 
-</div>
+**Currently Using / Practicing**
 
-<br/>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00FF41&height=2" width="100%" alt="" />
+**Exploring**
 
-<!-- FEATURED PROJECTS -->
-<h2 align="center">$ ls ~/projects --featured</h2>
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
-<!--
-  HOW TO EDIT A PROJECT CARD
-  1. Replace the PLACEHOLDER text with a real detail.
-  2. Replace REPLACE-WITH-REPO-NAME in the link with your repository name.
-  3. Add tech badges by copying a badge line from another card.
--->
+*These reflect current practice and active learning — not claims of mastery.*
 
-<table>
-<tr>
-<td width="50%" valign="top">
+---
 
-### MatsMate
-**Attendance Management System**
+### Featured Projects
 
-**[PLACEHOLDER: add one line on what it does for users, e.g. who uses it and the main feature]**
+#### CampSetu
+**Campus Community Platform** · React · Vite · Tailwind · Supabase
 
-![HTML](https://img.shields.io/badge/HTML-0D1117?style=flat-square&logo=html5&logoColor=00FF41)
-![CSS](https://img.shields.io/badge/CSS-0D1117?style=flat-square&logo=css3&logoColor=00FF41)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=00FF41)
+Multi-campus web platform for notices, events, lost & found, campus issues, interactive map, roles (student / faculty / admin), and authentication. Built with a mobile-first approach and dark mode support.
 
-[**View repository →**](https://github.com/heyshalabh/REPLACE-WITH-REPO-NAME)
+[Repository](https://github.com/heyshalabh/CampSetu) · [Live Demo](https://campsetu.vercel.app)
 
-</td>
-<td width="50%" valign="top">
+#### HeavyClub
+**Workout Tracker PWA** · React · TypeScript · Vite · Firebase
 
-### CampSetu
-**Campus Community Platform**
+Simple, modern workout companion for tracking sets, reps, weight, RPE, history, progress charts, PRs, goals, streaks, and gym club features. Privacy-focused security rules. Designed for college gyms.
 
-**[PLACEHOLDER: add one line on the main features that are actually built]**
+[Repository](https://github.com/heyshalabh/HeavyClub-App)
 
-<sub>[PLACEHOLDER: add tech badges]</sub>
+#### BiteBurp
+**Student Food Product Web App** · HTML · CSS · JavaScript · Firebase
 
-[**View repository →**](https://github.com/heyshalabh/REPLACE-WITH-REPO-NAME)
+Student-focused ordering experience for protein snack boxes. Includes product flow, order tokens, admin panel, feedback, story video support, and payment architecture (manual UPI + prepared Razorpay path).
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+[Repository](https://github.com/heyshalabh/BiteBurp-App)
 
-### DecodeCV
-**Resume Skills and Keyword Extraction Tool**
+#### Student Management System
+**Java Mini Project** · Core Java · OOP
 
-**[PLACEHOLDER: add one line on how it works and what it outputs]**
+Console-based application for managing student records: add, search, update, delete, display, grade calculation, and result generation. Practises classes, constructors, method overloading, inheritance, interfaces, packages, and access modifiers.
 
-<sub>[PLACEHOLDER: add tech badges]</sub>
+[Repository](https://github.com/heyshalabh/Student-Management-System)
 
-[**View repository →**](https://github.com/heyshalabh/REPLACE-WITH-REPO-NAME)
+#### Java Learning Journey
+**Practice & Notes** · Java
 
-</td>
-<td width="50%" valign="top">
+Collection of programs and notes documenting my progress with Java fundamentals and OOP concepts.
 
-### WhatsApp Automation Bot
-**Python-based WhatsApp automation project**
+[Repository](https://github.com/heyshalabh/Java-Programs)
 
-**[PLACEHOLDER: add one line on what it automates]**
+---
 
-![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=00FF41)
+**More projects** → [github.com/heyshalabh?tab=repositories](https://github.com/heyshalabh?tab=repositories)
 
-[**View repository →**](https://github.com/heyshalabh/REPLACE-WITH-REPO-NAME)
+*Other concepts in progress or earlier stages (MatsMate attendance, DecodeCV, BopMenu, Wallet404, Linkzip, EventPoke, etc.) will be featured as they reach a solid implementation state.*
 
-</td>
-</tr>
-</table>
+---
 
-<div align="center">
+### Currently Building & Learning
 
-<sub>More work is available on my <a href="https://github.com/heyshalabh?tab=repositories">GitHub repositories page</a>.</sub>
+- Strengthening Java fundamentals and OOP design
+- Building practical web applications with HTML, CSS, and JavaScript
+- Understanding APIs and backend integration patterns
+- Working with Firebase / Supabase for real data and auth
+- Exploring React Native for mobile
+- Improving Git workflows and project documentation
+- Turning ideas into usable student-focused products
 
-</div>
+*This section is intentionally short so it stays easy to update every few weeks.*
 
-<br/>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00FF41&height=2" width="100%" alt="" />
+### GitHub Activity
 
-<!-- GITHUB ANALYTICS -->
-<h2 align="center">$ git stats --live</h2>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=heyshalabh&show_icons=true&theme=transparent&hide_border=true&title_color=3fb950&icon_color=3fb950&text_color=c9d1d9&bg_color=00000000" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyshalabh&layout=compact&theme=transparent&hide_border=true&title_color=3fb950&text_color=c9d1d9&bg_color=00000000" alt="Top Languages" height="165" />
+</p>
 
-<div align="center">
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=heyshalabh&theme=transparent&hide_border=true&ring=3fb950&fire=3fb950&currStreakLabel=3fb950" alt="GitHub Streak" />
+</p>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=heyshalabh&show_icons=true&rank_icon=github&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9&ring_color=00FF41&border_color=1F3D2A" alt="GitHub profile statistics for heyshalabh" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyshalabh&layout=compact&langs_count=6&bg_color=000000&title_color=00FF41&text_color=C9D1D9&border_color=1F3D2A" alt="Most used languages on GitHub" />
+*Statistics are generated by third-party services and may take time to update. They reflect activity, not skill level.*
 
-<br/>
+---
 
-<img src="https://streak-stats.demolab.com?user=heyshalabh&theme=dark&background=000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=C9D1D9&dates=8B949E&border=1F3D2A" alt="GitHub contribution streak" />
+### Connect
 
-<br/>
+[GitHub](https://github.com/heyshalabh) · [LinkedIn](https://www.linkedin.com/in/shalabh-suman/) · Email: `[INSERT YOUR PUBLIC PROFESSIONAL EMAIL]`
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=heyshalabh&bg_color=000000&color=00FF41&line=00FF41&point=FFFFFF&area=true&area_color=00FF41&hide_border=true&title_color=00FF41&custom_title=Contribution%20Activity" alt="Contribution activity graph" width="100%" />
+Open to conversations about projects, internships, learning resources, and collaboration.
 
-</div>
+---
 
-<sub>These widgets are generated live from public GitHub activity. Numbers start small and grow as you commit.</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00FF41&height=2" width="100%" alt="" />
-
-<!-- CURRENTLY EXPLORING -->
-<h2 align="center">$ ls ~/exploring</h2>
-
-```bash
-shalabh@heyshalabh:~$ ls ~/exploring
-software-development/   automation/   apis/   mobile-development/   programming-fundamentals/
-
-shalabh@heyshalabh:~$ echo $GOAL
-Become a strong software developer, one project at a time
-```
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00FF41&height=2" width="100%" alt="" />
-
-<!-- ACHIEVEMENTS -->
-<h2 align="center">$ cat highlights.log</h2>
-
-| Highlight | Issuer | Proof |
-|:--|:--|:--|
-| **Java Programming Fundamentals** (Certification) | ExcelR | [View credential](REPLACE_WITH_CERTIFICATE_LINK) |
-| **B.Tech in Computer Science** (Expected 2029) | MATS University, Raipur | In progress |
-
-<!--
-  OPTIONAL: add only things you can prove. Copy this row format:
-  | **Name of achievement** | Organiser | [View proof](REPLACE_WITH_LINK) |
--->
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00FF41&height=2" width="100%" alt="" />
-
-<!-- CONNECT -->
-<h2 align="center">$ ./connect.sh</h2>
-
-<div align="center">
-
-| Channel | Link |
-|:--|:--|
-| **LinkedIn** | [linkedin.com/in/shalabh-suman](https://www.linkedin.com/in/shalabh-suman/) |
-| **GitHub** | [github.com/heyshalabh](https://github.com/heyshalabh) |
-| **Email** | REPLACE_WITH_YOUR_EMAIL@example.com |
-
-<br/>
-
-**Open to software development internships. Let's build something good together.**
-
-</div>
-
-<!-- FOOTER -->
-<br/>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=00FF41&center=true&vCenter=true&width=520&height=30&lines=Talk+is+cheap.+Show+me+the+code." alt="Quote: Talk is cheap. Show me the code." />
-
-<sub>Linus Torvalds</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:001a0a,100:004d1a&height=120&section=footer" alt="" width="100%" />
-
-<sub>Shalabh Suman &middot; Raipur, India &middot; 2026</sub>
-
-</div>
+*Learning continuously. Building intentionally. Improving one project at a time.*
